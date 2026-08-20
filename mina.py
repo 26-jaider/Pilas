@@ -1,5 +1,4 @@
 class Stack:
-    """Basic LIFO stack."""
 
     def __init__(self):
         self.items = []
